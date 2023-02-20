@@ -1,6 +1,6 @@
 -  👋 Hi, I’m @abhaykrishnanmn
-- 👀 I’m interested in Cyber Security  
-- 💞️ I’m looking to collaborate on intersting topics
+- 👀 I’m looking to collaborate on intersting topics
+- 💞️ I’m interested in Cyber Security  
 - 📫 https://www.linkedin.com/in/abhay-krishnan-m-n-3797b8161
 
 <!---
