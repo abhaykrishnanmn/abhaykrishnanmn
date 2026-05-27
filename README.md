@@ -1,7 +1,7 @@
 -  👋 Hi, I’m ABHAY KRISHNAN M N
 - 👀 I’m looking to collaborate on intersting topics
 - 💞️ I’m interested in Cyber Security  
-- 📫 https://www.linkedin.com/in/abhay-krishnan-m-n-3797b8161
+- 📫 https://www.linkedin.com/in/abhay-krishnan-m-n
 
 <!---
 abhaykrishnanmn/abhaykrishnanmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
