@@ -1,6 +1,6 @@
--  👋 Hi, I’m ABHAY KRISHNAN M N
+- 👋 Hi, I’m ABHAY KRISHNAN M N
 - 👀 I’m looking to collaborate on intersting topics
-- 💞️ I’m interested in Cyber Security  
+- 💞️ I’m interested learning 
 - 📫 https://www.linkedin.com/in/abhay-krishnan-m-n
 
 <!---
